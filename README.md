@@ -1,76 +1,46 @@
-<h2 align="center">🧠 Projeto Estruturas de Dados em C# — Pilha, Fila e Lista com LINQ 🔄</h2>
+<h2 align="center">🧠 Repositório de Projetos em C# — Estudos com Lógica, Estruturas de Dados e POO</h2>
 
-## 📌 Sobre o projeto  
+## 📌 Sobre este repositório  
 
-Este é um projeto console em C# criado com o objetivo de **simular e treinar a lógica de estruturas de dados clássicas** — Pilha, Fila e Lista — utilizando conceitos fundamentais da programação orientada a objetos.
+Este repositório reúne **projetos práticos desenvolvidos em C#**, com o objetivo de consolidar e aplicar tudo o que venho aprendendo até agora:  
+🧱 **Lógica de programação**, 🧠 **Estruturas de Dados**, ⚙️ **Programação Orientada a Objetos**, 🔄 **LINQ**, e 📁 **Serialização JSON**.
 
-Todas as estruturas foram **implementadas manualmente**, recriando seu funcionamento interno com **arrays fixos e controle de índices**, sem o uso das estruturas prontas como `Stack<T>`, `Queue<T>` ou `List<T>`. A proposta foi reforçar o entendimento prático das regras que regem cada estrutura (como LIFO e FIFO) e criar um ambiente interativo para praticar essas operações.
-
-Além disso, o projeto marca uma etapa importante no aprendizado, pois também aplica outros conhecimentos adquiridos, como:
-- **Classes e objetos**
-- **Interfaces e polimorfismo**
-- **LINQ** para filtragens/manipulações de dados
-- **Serialização e desserialização com JSON**
-- **Menus interativos com leitura via terminal**
-
-📌 A ideia é que **cada novo projeto pessoal seja uma forma de colocar em prática tudo o que venho aprendendo**, consolidando minha base em lógica, estruturas e fundamentos do C# com aplicações progressivamente mais completas.
+Cada projeto foi criado do zero, com foco **autêntico e didático**, e está organizado em uma pasta individual. A ideia é colocar em prática os conhecimentos adquiridos, mesclando conceitos em situações reais e interativas.
 
 ---
 
-## 🚀 Tecnologias utilizadas  
+## 🗂 Organização
 
-- ✅ **C#** - Lógica, classes, interfaces e estrutura do projeto  
-- ✅ **.NET Console App** - Execução via terminal para foco em lógica  
-- ✅ **LINQ** - Filtragem, ordenação e manipulação de dados  
-- ✅ **JSON** - Serialização e desserialização de dados simulando armazenamento local  
-- ✅ **Programação Orientada a Objetos** - Uso de interfaces e polimorfismo  
-- ✅ **Visual Studio / VS Code** - Ambiente de desenvolvimento  
+📂 Cada pasta representa um projeto independente, com foco em um tema específico.  
+📄 Dentro de cada uma delas, você encontrará um `README.md` **mais completo e detalhado** explicando o funcionamento do projeto, as tecnologias usadas e os aprendizados aplicados.
 
 ---
 
-## 🎯 Funcionalidades  
+## 🚀 Projetos disponíveis
 
-✔️ **Simulação completa de Pilha, Fila e Lista** — com array fixo e controle manual  
-✔️ **Menu principal e submenus por estrutura** — navegação fluida entre as operações  
-✔️ **Métodos personalizados via Interface** — Adicionar, Remover, Listar, Aprender  
-✔️ **Implementação didática** — Estrutura explicada ao final de cada submenu  
-✔️ **LINQ aplicado** — Filtragens e ordenações nos dados da estrutura  
-✔️ **JSON** — Geração e leitura de arquivos locais simulando armazenamento permanente  
-✔️ **Código limpo e comentado** — Pensado para estudo e reforço de lógica estruturada  
+| Pasta | Descrição |
+|-------|-----------|
+| [SimuladorED_LINQ](./SimuladorED_LINQ) | Simulação manual de Pilha, Fila e Lista com POO, LINQ e JSON |
+| *(em breve)* | Novos projetos virão conforme avanço nos estudos |
 
 ---
 
-## 🗂 Organização do projeto
+## 🎯 Objetivo  
 
-```
-📁 ProjetoBackEnd
-├── 📁 Estruturas
-│   ├── Pilha.cs
-│   ├── Fila.cs
-│   ├── Lista.cs
-│   └── IEstruturaDeDados.cs
-├── 📁 Json
-│   ├── manipuladorJson.cs
-│   └── serializados.json
-└── Program.cs
-```
+Este repositório serve como portfólio pessoal e como registro do meu processo de aprendizado, onde cada projeto tem como proposta:
 
-## 📚 Aprendizados aplicados  
-
-✅ Diferença entre **interface e herança**  
-✅ Aplicação de **polimorfismo prático**  
-✅ Simulação de estruturas de dados sem usar classes prontas (`Queue`, `Stack`, etc.)  
-✅ Manipulação manual de arrays para controle de topo/início/fim  
-✅ Serialização e desserialização com `System.Text.Json`  
-✅ Uso de **LINQ** para filtrar ou reorganizar os dados inseridos pelo usuário  
+- Consolidar a lógica por trás das estruturas
+- Reforçar a prática de boas práticas de código
+- Treinar o uso combinado de conteúdos estudados
+- Criar soluções reais com base no que estou aprendendo
 
 ---
 
 ## 📩 Contato  
 
 📧 **Email:** [vitorassis997@gmail.com](mailto:vitorassis997@gmail.com)  
-👨‍💻 **GitHub:** [github.com/vitorhassis](https://github.com/vitorhassis)  
+👨‍💻 **GitHub:** [github.com/vitorhassis](https://github.com/vitorhassis)
 
 ---
 
-<p align="center">🧩 <em>Projeto prático para reforço de lógica, estruturas de dados e fundamentos do C#</em> 🧩</p>
+<p align="center">🚀 <em>Aprender na prática é o que transforma teoria em domínio real.</em> 🚀</p>
