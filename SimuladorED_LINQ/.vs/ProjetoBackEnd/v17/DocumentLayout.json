@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vh\\Desktop\\ProjetoBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13670350-E2C1-4ED8-B468-320EA3143449}|ProjetoBackEnd\\ProjetoBackEnd.csproj|c:\\users\\vh\\desktop\\projetobackend\\projetobackend\\estruturas\\iestruturadedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13670350-E2C1-4ED8-B468-320EA3143449}|ProjetoBackEnd\\ProjetoBackEnd.csproj|solutionrelative:projetobackend\\estruturas\\iestruturadedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13670350-E2C1-4ED8-B468-320EA3143449}|ProjetoBackEnd\\ProjetoBackEnd.csproj|c:\\users\\vh\\desktop\\projetobackend\\projetobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13670350-E2C1-4ED8-B468-320EA3143449}|ProjetoBackEnd\\ProjetoBackEnd.csproj|solutionrelative:projetobackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13670350-E2C1-4ED8-B468-320EA3143449}|ProjetoBackEnd\\ProjetoBackEnd.csproj|c:\\users\\vh\\desktop\\projetobackend\\projetobackend\\estruturas\\pilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13670350-E2C1-4ED8-B468-320EA3143449}|ProjetoBackEnd\\ProjetoBackEnd.csproj|solutionrelative:projetobackend\\estruturas\\pilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pilha.cs",
+              "DocumentMoniker": "C:\\Users\\vh\\Desktop\\ProjetoBackEnd\\ProjetoBackEnd\\Estruturas\\Pilha.cs",
+              "RelativeDocumentMoniker": "ProjetoBackEnd\\Estruturas\\Pilha.cs",
+              "ToolTip": "C:\\Users\\vh\\Desktop\\ProjetoBackEnd\\ProjetoBackEnd\\Estruturas\\Pilha.cs",
+              "RelativeToolTip": "ProjetoBackEnd\\Estruturas\\Pilha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T02:41:33.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEstruturaDeDados.cs",
+              "DocumentMoniker": "C:\\Users\\vh\\Desktop\\ProjetoBackEnd\\ProjetoBackEnd\\Estruturas\\IEstruturaDeDados.cs",
+              "RelativeDocumentMoniker": "ProjetoBackEnd\\Estruturas\\IEstruturaDeDados.cs",
+              "ToolTip": "C:\\Users\\vh\\Desktop\\ProjetoBackEnd\\ProjetoBackEnd\\Estruturas\\IEstruturaDeDados.cs",
+              "RelativeToolTip": "ProjetoBackEnd\\Estruturas\\IEstruturaDeDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T02:37:12.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vh\\Desktop\\ProjetoBackEnd\\ProjetoBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoBackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\vh\\Desktop\\ProjetoBackEnd\\ProjetoBackEnd\\Program.cs",
+              "RelativeToolTip": "ProjetoBackEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:00:46.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

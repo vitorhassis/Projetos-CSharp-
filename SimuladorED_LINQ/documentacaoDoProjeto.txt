@@ -1,0 +1,51 @@
+Resumo do Projeto Back-End (C# + .NET + Estruturas de Dados)
+859*
+Objetivo: Criar um sistema interativo via terminal para manipular estruturas de dados básicas (Pilha, Fila, Lista), praticando lógica, orientação a objetos, LINQ e manipulação de JSON.
+
+Funcionalidades principais:
+
+Exibir menu com as opções:
+
+Escolher qual estrutura deseja usar: 🟥 Pilha, 🟩 Fila, 🟦 Lista
+
+Adicionar elementos (1 ou vários)
+
+Remover elementos (respeitando a lógica da estrutura escolhida)
+
+Listar todos os elementos atuais
+
+Ordenar ou filtrar os dados com LINQ (em Lista, por exemplo)
+
+Serializar os dados da estrutura para .json
+
+Desserializar dados do .json para a estrutura
+
+Estruturas implementadas como classes:
+
+Pilha<T>: LIFO (último a entrar, primeiro a sair)
+
+Fila<T>: FIFO (primeiro a entrar, primeiro a sair)
+
+Lista<T>: Inserção e remoção livre (baseada em List<T> do .NET)
+
+Tecnologias utilizadas:
+
+C# com .NET
+
+Orientação a Objetos
+
+LINQ (para filtros e ordenações)
+
+Serialização com System.Text.Json
+
+Leitura/gravação de arquivos .json
+
+Extras opcionais (para expandir depois):
+
+Validações de entrada
+
+Menu estilizado com Console.ForegroundColor
+
+Timer ou logs de operações
+
+Possível integração com um front-end (ex: Vue + API)
